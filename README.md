@@ -35,7 +35,6 @@ Spam-Ham-Classifier
            1       0.92      0.92      0.92       161
 
     accuracy                           0.98      1115
-   macro avg       0.95      0.95      0.95      1115
-weighted avg       0.98      0.98      0.98      1115
+
 
 
